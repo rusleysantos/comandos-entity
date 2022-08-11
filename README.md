@@ -1,6 +1,8 @@
 # comandos-entity
 
 get-help entityframework
+
+
 Scaffold-DbContext -provider Microsoft.EntityFrameworkCore.SqlServer -connection "connstring"
 
 
