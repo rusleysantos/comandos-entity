@@ -1,4 +1,11 @@
 # comandos-entity
+
+get-help entityframework
+Scaffold-DbContext -provider Microsoft.EntityFrameworkCore.SqlServer -connection "connstring"
+
+
+------------------------------------------
+
 Alguns comandos do Entity
 
 Scaffold
